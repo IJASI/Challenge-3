@@ -44,7 +44,7 @@ coinbasedf['Close'].loc['2018-1-29'].plot(
     legend=True, figsize=(15, 10), color="orange", label="Coinbase")
 ```
 
-[Coinbase V Bitstamp closing prices for 1/29/18](images/Bitstamp_v_Coinbase_early.png)
+[Coinbase V Bitstamp closing prices for 1/29/18](https://github.com/IJASI/Challenge-3/blob/main/Images/Bitstamp_v_Coinbase_early.PNG)
 
 
 ## Contributors(ing)
