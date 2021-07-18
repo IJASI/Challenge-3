@@ -63,7 +63,8 @@ sampedro.jose.a@gmail.com
 
 With the contributions and assistance of:
 
-The Columbia Fintech Bootcamp TAs and Toturs
+The Columbia Fintech Bootcamp TAs and Tutors.
+
 
 **Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
 
